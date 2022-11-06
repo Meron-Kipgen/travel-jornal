@@ -6,7 +6,7 @@ export default function Jorney(props){
         
         <section className="jorney">
             <div className="image">
-                <img src={`../images/${props.item.image}`}  />
+                <img src={`images/${props.item.image}`}  />
             </div>
 
             <div className="detail">
