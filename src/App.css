@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  height: 70px;
+  width: 100%;
+  background-color: brown;
+}
+.navbar img{
+  height: 50px;
+  padding: 8px 4px;
+  margin-left: 700px;
+}
+.jorney{
+  width: 550px;
+  height:auto;
+  display: flex;
+  margin-left: 470px;
+  margin-top: 20px;
+  background-color: rgba(219, 216, 212, 0.73);
+}
+.image{
+  height: 200px;
+  width: 150px;
+  padding-right: 10px;
+}
+.image img{
+  height: 200px;
+  width: 150px;
+}
+.detail{
+  padding: 5px 5px;
+}
+.detail a{
+  font-size: 17px;
+  color: darkolivegreen;
+}
+.location, .title, .date{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 600px;
+  padding-bottom: 5px;
+}
